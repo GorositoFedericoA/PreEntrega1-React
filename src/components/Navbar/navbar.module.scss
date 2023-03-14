@@ -1,0 +1,19 @@
+.container{
+display: flex;
+padding: 15px;
+background-color: rgb(205, 197, 201);
+justify-content: space-around;
+}
+
+.a{
+  display: inline-flex;
+  text-decoration: none;
+}
+
+.numItem{
+  padding: 5px;
+  background-color: rgb(0, 119, 109);
+  color: #fff;
+  border-radius: 10px ;
+  margin-left: 5px;
+}
